@@ -1,0 +1,34 @@
+[gd_scene load_steps=8 format=3 uid="uid://dgo7m2gium5bc"]
+
+[ext_resource type="Texture2D" uid="uid://bufr0b4dkwx0d" path="res://blender/set/Image0001.exr" id="1_3my0i"]
+[ext_resource type="Shader" path="res://shaders/screen.gdshader" id="1_p0617"]
+[ext_resource type="Script" path="res://main.gd" id="1_twase"]
+[ext_resource type="Texture2D" uid="uid://dbokhdhelrdeu" path="res://blender/screen_map/Image0001.exr" id="2_skcxi"]
+[ext_resource type="PackedScene" uid="uid://cnd6ep7yk8drm" path="res://content.tscn" id="3_q2eey"]
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_iakfq"]
+viewport_path = NodePath("SubViewport")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_r4313"]
+resource_local_to_scene = true
+shader = ExtResource("1_p0617")
+shader_parameter/contentSampler = SubResource("ViewportTexture_iakfq")
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_twase")
+
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+position = Vector2(961.078, 534.75)
+scale = Vector2(0.998519, 0.983796)
+texture = ExtResource("1_3my0i")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+material = SubResource("ShaderMaterial_r4313")
+position = Vector2(961.078, 534.75)
+scale = Vector2(0.998519, 0.983796)
+texture = ExtResource("2_skcxi")
+
+[node name="SubViewport" type="SubViewport" parent="."]
+size = Vector2i(2500, 1080)
+
+[node name="Content" parent="SubViewport" instance=ExtResource("3_q2eey")]
