@@ -1,5 +1,9 @@
 extends Node2D
 
+func _ready():
+	DisplayServer.window_set_size(Vector2(640, 480))
+	DisplayServer.window_set_position(Vector2(200, 200))
+
 
 func toggle_fullscreen() -> void:
 	var mode := DisplayServer.window_get_mode()

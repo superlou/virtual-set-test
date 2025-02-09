@@ -1,10 +1,20 @@
-[gd_scene load_steps=2 format=3 uid="uid://cnd6ep7yk8drm"]
+[gd_scene load_steps=3 format=3 uid="uid://cnd6ep7yk8drm"]
 
 [ext_resource type="PackedScene" uid="uid://cgh0dixv6yjiu" path="res://date_events.tscn" id="1_r3hwc"]
+[ext_resource type="VideoStream" path="res://background.ogv" id="2_pnohd"]
 
 [node name="Content" type="Node2D"]
 
+[node name="VideoStreamPlayer" type="VideoStreamPlayer" parent="."]
+offset_right = 2532.0
+offset_bottom = 1169.0
+stream = ExtResource("2_pnohd")
+autoplay = true
+expand = true
+loop = true
+
 [node name="Control" type="Control" parent="."]
+visible = false
 layout_mode = 3
 anchors_preset = 0
 offset_right = 2500.0
@@ -20,3 +30,7 @@ grow_horizontal = 2
 grow_vertical = 2
 
 [node name="DateEvents" parent="." instance=ExtResource("1_r3hwc")]
+offset_left = 64.0
+offset_top = 222.0
+offset_right = 64.0
+offset_bottom = 222.0
