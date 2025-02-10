@@ -1,36 +1,61 @@
-[gd_scene load_steps=3 format=3 uid="uid://cnd6ep7yk8drm"]
+[gd_scene load_steps=11 format=3 uid="uid://cnd6ep7yk8drm"]
 
-[ext_resource type="PackedScene" uid="uid://cgh0dixv6yjiu" path="res://date_events.tscn" id="1_r3hwc"]
-[ext_resource type="VideoStream" path="res://background.ogv" id="2_pnohd"]
+[ext_resource type="Script" path="res://content.gd" id="1_68x2g"]
+[ext_resource type="PackedScene" uid="uid://cgh0dixv6yjiu" path="res://slides/date_events_slide.tscn" id="1_r3hwc"]
+[ext_resource type="VideoStream" path="res://background.ogv" id="3_3p2o1"]
+[ext_resource type="Script" path="res://slides/presentation.gd" id="3_l6wlg"]
+[ext_resource type="Script" path="res://slides/blank_slide.gd" id="4_xtrjh"]
+[ext_resource type="Script" path="res://slides/lmc_event.gd" id="5_6grsg"]
+
+[sub_resource type="Resource" id="Resource_otgl8"]
+script = ExtResource("5_6grsg")
+title = "Library Stuff"
+time = "8:00 am"
+location = "Larchmont Library"
+
+[sub_resource type="Resource" id="Resource_6ftix"]
+script = ExtResource("5_6grsg")
+title = "PTA Meeting"
+time = "1:00 pm"
+location = "Hommocks Ice Rink"
+
+[sub_resource type="Resource" id="Resource_fgi6g"]
+script = ExtResource("5_6grsg")
+title = "Board Meeting"
+time = "2:30 pm"
+location = "Rye Neck HS"
+
+[sub_resource type="Resource" id="Resource_b8axt"]
+script = ExtResource("5_6grsg")
+title = "Community Skate"
+time = "8:00 pm"
+location = "Hommocks Ice Rink"
 
 [node name="Content" type="Node2D"]
+script = ExtResource("1_68x2g")
 
 [node name="VideoStreamPlayer" type="VideoStreamPlayer" parent="."]
-offset_right = 2532.0
-offset_bottom = 1169.0
-stream = ExtResource("2_pnohd")
+offset_right = 2533.0
+offset_bottom = 1088.0
+stream = ExtResource("3_3p2o1")
 autoplay = true
 expand = true
 loop = true
 
-[node name="Control" type="Control" parent="."]
-visible = false
-layout_mode = 3
-anchors_preset = 0
-offset_right = 2500.0
-offset_bottom = 1080.0
-metadata/_edit_use_anchors_ = true
+[node name="Presentation" type="Node2D" parent="."]
+position = Vector2(50, 150)
+script = ExtResource("3_l6wlg")
 
-[node name="ColorRect" type="ColorRect" parent="Control"]
-layout_mode = 1
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
-grow_horizontal = 2
-grow_vertical = 2
+[node name="BlankSlide" type="Node2D" parent="Presentation"]
+position = Vector2(-50, -150)
+script = ExtResource("4_xtrjh")
 
-[node name="DateEvents" parent="." instance=ExtResource("1_r3hwc")]
-offset_left = 64.0
-offset_top = 222.0
-offset_right = 64.0
-offset_bottom = 222.0
+[node name="DateEvents" parent="Presentation" instance=ExtResource("1_r3hwc")]
+date = "2/10/25"
+lmc_events = Array[ExtResource("5_6grsg")]([SubResource("Resource_otgl8"), SubResource("Resource_6ftix"), SubResource("Resource_fgi6g")])
+num_steps = 0
+
+[node name="DateEvents2" parent="Presentation" instance=ExtResource("1_r3hwc")]
+date = "2/11/25"
+lmc_events = Array[ExtResource("5_6grsg")]([SubResource("Resource_otgl8"), SubResource("Resource_b8axt")])
+num_steps = 0
