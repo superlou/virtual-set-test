@@ -53,9 +53,7 @@ script = ExtResource("4_xtrjh")
 [node name="DateEvents" parent="Presentation" instance=ExtResource("1_r3hwc")]
 date = "2/10/25"
 lmc_events = Array[ExtResource("5_6grsg")]([SubResource("Resource_otgl8"), SubResource("Resource_6ftix"), SubResource("Resource_fgi6g")])
-num_steps = 0
 
 [node name="DateEvents2" parent="Presentation" instance=ExtResource("1_r3hwc")]
 date = "2/11/25"
 lmc_events = Array[ExtResource("5_6grsg")]([SubResource("Resource_otgl8"), SubResource("Resource_b8axt")])
-num_steps = 0

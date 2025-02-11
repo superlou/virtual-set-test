@@ -7,13 +7,13 @@
 [ext_resource type="PackedScene" uid="uid://cnd6ep7yk8drm" path="res://content.tscn" id="3_q2eey"]
 [ext_resource type="PackedScene" uid="uid://cewcs77dl3kto" path="res://controller/controller_window.tscn" id="6_vbw00"]
 
-[sub_resource type="ViewportTexture" id="ViewportTexture_iakfq"]
+[sub_resource type="ViewportTexture" id="ViewportTexture_vu83b"]
 viewport_path = NodePath("SubViewport")
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_r4313"]
 resource_local_to_scene = true
 shader = ExtResource("1_p0617")
-shader_parameter/contentSampler = SubResource("ViewportTexture_iakfq")
+shader_parameter/contentSampler = SubResource("ViewportTexture_vu83b")
 
 [node name="Node2D" type="Node2D"]
 script = ExtResource("1_twase")
@@ -21,12 +21,12 @@ script = ExtResource("1_twase")
 [node name="ControllerWindow" parent="." instance=ExtResource("6_vbw00")]
 visible = false
 
-[node name="Sprite2D2" type="Sprite2D" parent="."]
+[node name="SetSprite" type="Sprite2D" parent="."]
 position = Vector2(961.078, 534.75)
 scale = Vector2(0.998519, 0.983796)
 texture = ExtResource("1_3my0i")
 
-[node name="Sprite2D" type="Sprite2D" parent="."]
+[node name="ScreenSprite" type="Sprite2D" parent="."]
 material = SubResource("ShaderMaterial_r4313")
 position = Vector2(961.078, 534.75)
 scale = Vector2(0.998519, 0.983796)
