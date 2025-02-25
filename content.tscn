@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://content.gd" id="1_68x2g"]
 [ext_resource type="PackedScene" uid="uid://cgh0dixv6yjiu" path="res://slides/date_events_slide.tscn" id="1_r3hwc"]
-[ext_resource type="VideoStream" path="res://background.ogv" id="3_3p2o1"]
+[ext_resource type="VideoStream" path="res://media/colorful_bg.ogv" id="2_tc6yw"]
 [ext_resource type="Script" path="res://slides/presentation.gd" id="3_l6wlg"]
 [ext_resource type="Script" path="res://slides/blank_slide.gd" id="4_xtrjh"]
 [ext_resource type="Script" path="res://slides/lmc_event.gd" id="5_6grsg"]
@@ -37,13 +37,13 @@ script = ExtResource("1_68x2g")
 [node name="VideoStreamPlayer" type="VideoStreamPlayer" parent="."]
 offset_right = 2533.0
 offset_bottom = 1088.0
-stream = ExtResource("3_3p2o1")
+stream = ExtResource("2_tc6yw")
 autoplay = true
 expand = true
 loop = true
 
 [node name="Presentation" type="Node2D" parent="."]
-position = Vector2(200, 150)
+position = Vector2(150, 150)
 script = ExtResource("3_l6wlg")
 
 [node name="BlankSlide" type="Node2D" parent="Presentation"]

@@ -1,25 +1,17 @@
-[gd_scene load_steps=12 format=3 uid="uid://dgo7m2gium5bc"]
+[gd_scene load_steps=10 format=3 uid="uid://dgo7m2gium5bc"]
 
 [ext_resource type="Shader" path="res://systems/mapping/screen.gdshader" id="1_p0617"]
 [ext_resource type="Script" path="res://main.gd" id="1_twase"]
-[ext_resource type="Texture2D" uid="uid://cokggyuinm10b" path="res://blender/simple_scene_bg/Image0001.exr" id="3_lku1o"]
+[ext_resource type="Texture2D" uid="uid://bi13nqtat4bf" path="res://blender/simple_scene/bg/Image0001.exr" id="3_hi3vs"]
 [ext_resource type="PackedScene" uid="uid://cnd6ep7yk8drm" path="res://content.tscn" id="3_q2eey"]
-[ext_resource type="Texture2D" uid="uid://7cbgqqbfph0p" path="res://blender/tv_wall_map/Image0001.exr" id="5_lbcem"]
+[ext_resource type="Texture2D" uid="uid://b4uhby7h45ttd" path="res://blender/simple_scene/map/Image0001.exr" id="5_6gcvx"]
 [ext_resource type="Script" path="res://systems/mapping/uv_mapped_sprite_2d.gd" id="6_816q2"]
 [ext_resource type="PackedScene" uid="uid://cewcs77dl3kto" path="res://controller/controller_window.tscn" id="6_vbw00"]
-
-[sub_resource type="ViewportTexture" id="ViewportTexture_vu83b"]
-viewport_path = NodePath("SubViewport")
-
-[sub_resource type="ShaderMaterial" id="ShaderMaterial_r4313"]
-resource_local_to_scene = true
-shader = ExtResource("1_p0617")
-shader_parameter/contentSampler = SubResource("ViewportTexture_vu83b")
 
 [sub_resource type="ViewportTexture" id="ViewportTexture_vs8pg"]
 viewport_path = NodePath("SubViewport")
 
-[sub_resource type="ShaderMaterial" id="ShaderMaterial_a4q60"]
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_ojmw6"]
 shader = ExtResource("1_p0617")
 shader_parameter/contentSampler = SubResource("ViewportTexture_vs8pg")
 
@@ -30,21 +22,13 @@ script = ExtResource("1_twase")
 visible = false
 
 [node name="SetSprite" type="Sprite2D" parent="."]
-position = Vector2(961.078, 534.75)
-scale = Vector2(0.998519, 0.983796)
-texture = ExtResource("3_lku1o")
-
-[node name="ScreenSprite" type="Sprite2D" parent="."]
-visible = false
-material = SubResource("ShaderMaterial_r4313")
-position = Vector2(961.078, 534.75)
-scale = Vector2(0.998519, 0.983796)
-texture = ExtResource("5_lbcem")
+position = Vector2(960, 540)
+texture = ExtResource("3_hi3vs")
 
 [node name="UVMappedSprite2D" type="Sprite2D" parent="."]
-material = SubResource("ShaderMaterial_a4q60")
+material = SubResource("ShaderMaterial_ojmw6")
 position = Vector2(960, 540)
-texture = ExtResource("5_lbcem")
+texture = ExtResource("5_6gcvx")
 script = ExtResource("6_816q2")
 display_texture = SubResource("ViewportTexture_vs8pg")
 

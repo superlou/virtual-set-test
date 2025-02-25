@@ -8,14 +8,14 @@ script = ExtResource("1_ik7t3")
 [node name="DateLabel" type="Label" parent="."]
 offset_right = 800.0
 offset_bottom = 84.0
-theme_override_colors/font_color = Color(0.239216, 1, 0.682353, 1)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
 text = "Wednesday 1/1"
 
 [node name="DateUnderline" type="ColorRect" parent="."]
 offset_top = 92.0
 offset_right = 413.0
 offset_bottom = 108.0
-color = Color(0.24, 1, 0.683333, 1)
+color = Color(0, 0, 0, 1)
 
 [node name="InfoGrid" type="GridContainer" parent="."]
 offset_top = 117.0
