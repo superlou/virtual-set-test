@@ -8,6 +8,7 @@ var active_slide_index:int = 0
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
+	load_config("res://slides.txt")
 	for slide in slides:
 		slide.hide()
 	
@@ -52,3 +53,16 @@ func advance_slide() -> void:
 func advance_slide_step():
 	var active_slide:Slide = slides[active_slide_index]
 	active_slide.step()
+
+
+func load_config(filename:String):
+	var loader := SlideLoader.new()
+
+	for child in get_children():
+		remove_child(child)
+		child.queue_free()
+	
+	for slide in loader.load(filename):
+		add_child(slide)
+
+	slides = get_children()

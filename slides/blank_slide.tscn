@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://co6afp0ytbhrg"]
+
+[ext_resource type="Script" path="res://slides/slide.gd" id="1_u1yuu"]
+
+[node name="BlankSlide" type="Node2D"]
+script = ExtResource("1_u1yuu")

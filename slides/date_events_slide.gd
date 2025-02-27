@@ -3,7 +3,7 @@ extends Slide
 class_name DateEventsSlide
 
 
-@export var date = "1/1/25"
+@export var date = "Monday 1/1" #"1/1/25"
 @export var lmc_events:Array[LMCEvent]
 @export var date_text_color:Color
 @export var date_underline_color:Color
@@ -14,11 +14,12 @@ class_name DateEventsSlide
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
-	var date_iso = DateUtil.mmddyy_to_iso8061(date)
-	var date_dict = Time.get_datetime_dict_from_datetime_string(date_iso, true)
-	var weekday = DateUtil.humanize_weekday(date_dict.weekday)
-	
-	$DateLabel.text = "%s %s/%s" % [weekday, date_dict.month, date_dict.day]
+	# var date_iso = DateUtil.mmddyy_to_iso8061(date)
+	# var date_dict = Time.get_datetime_dict_from_datetime_string(date_iso, true)
+	# var weekday = DateUtil.humanize_weekday(date_dict.weekday)
+	# $DateLabel.text = "%s %s/%s" % [weekday, date_dict.month, date_dict.day]
+
+	$DateLabel.text = date
 	$DateLabel.add_theme_color_override("font_color", date_text_color)
 
 	var font:Font = $DateLabel.get_theme_font("font")
