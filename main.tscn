@@ -11,7 +11,7 @@
 [sub_resource type="ViewportTexture" id="ViewportTexture_vs8pg"]
 viewport_path = NodePath("SubViewport")
 
-[sub_resource type="ShaderMaterial" id="ShaderMaterial_00n5c"]
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_5nii7"]
 shader = ExtResource("1_p0617")
 shader_parameter/contentSampler = SubResource("ViewportTexture_vs8pg")
 
@@ -26,7 +26,7 @@ position = Vector2(960, 540)
 texture = ExtResource("3_hi3vs")
 
 [node name="UVMappedSprite2D" type="Sprite2D" parent="."]
-material = SubResource("ShaderMaterial_00n5c")
+material = SubResource("ShaderMaterial_5nii7")
 position = Vector2(960, 540)
 texture = ExtResource("5_6gcvx")
 script = ExtResource("6_816q2")

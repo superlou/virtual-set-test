@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.61476413"
-     inkscape:cx="150.46421"
-     inkscape:cy="526.21808"
+     inkscape:zoom="0.97687023"
+     inkscape:cx="295.84278"
+     inkscape:cy="791.81449"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -39,6 +39,78 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path50"
+       cx="215.72134"
+       cy="409.67612"
+       rx="33.028835"
+       ry="47.15678"
+       transform="rotate(-30.65061)" />
+    <rect
+       style="fill:#f5fa9a;fill-opacity:1;stroke-width:10;paint-order:stroke fill markers;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       id="rect48"
+       width="66.88533"
+       height="87.587944"
+       x="257.05783"
+       y="199.3044"
+       ry="8.8680353" />
+    <rect
+       style="fill:#639bfa;stroke-width:0.499999;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect42"
+       width="66.88533"
+       height="87.587944"
+       x="257.05783"
+       y="97.364349"
+       ry="8.8680353" />
+    <path
+       id="rect28"
+       style="fill:#f8fabc;stroke-width:0.499999;paint-order:stroke fill markers;fill-opacity:1"
+       d="M 266.93048 97.3646 L 321.87854 181.78064 C 322.21908 181.37389 322.52004 180.93399 322.78392 180.4696 L 301.30151 97.3646 L 266.93048 97.3646 z " />
+    <path
+       id="rect41"
+       style="fill:#f4fa63;stroke-width:0.499999;paint-order:stroke fill markers;fill-opacity:1"
+       d="M 279.00002 97.3646 L 258.19148 180.42723 C 258.45419 180.89569 258.75432 181.33966 259.09478 181.75015 L 312.77884 97.3646 L 279.00002 97.3646 z " />
+    <circle
+       style="fill:#63fa64;fill-opacity:1;stroke-width:0.499999;paint-order:stroke fill markers"
+       id="circle38"
+       cx="403.1687"
+       cy="160.27751"
+       r="3.590086" />
+    <path
+       style="font-size:24.8012px;line-height:0.9;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.499999;paint-order:markers fill stroke"
+       d="M 383.64845,167.01483 V 153.029 h 1.55967 v 12.57958 h 5.72729 v 1.40625 z m 8.46309,0 V 153.029 h 1.55967 v 13.98583 z m 15.46297,-6.5199 h 2.92056 c 0,2.02841 -0.80966,3.69887 -2.42899,5.01138 -1.46591,1.15909 -3.12785,1.73864 -4.98581,1.73864 -2.07955,0 -3.85228,-0.71591 -5.31819,-2.14773 -1.46591,-1.43183 -2.19887,-3.12786 -2.19887,-5.08809 0,-1.89205 0.69887,-3.54546 2.0966,-4.96024 1.41477,-1.53409 3.21307,-2.30114 5.3949,-2.30114 1.6875,0 3.19603,0.4858 4.52558,1.45739 1.05682,0.80114 1.77273,1.68751 2.14773,2.6591 h -1.81535 c -0.40909,-0.76705 -1.02273,-1.38921 -1.84091,-1.86648 -0.95455,-0.52841 -1.95171,-0.79262 -2.99149,-0.79262 -1.6875,0 -3.10228,0.58807 -4.24433,1.76421 -1.14205,1.15909 -1.71307,2.52273 -1.71307,4.09092 0,1.55114 0.55398,2.89773 1.66194,4.03978 1.17614,1.17614 2.62501,1.76421 4.3466,1.76421 1.34659,0 2.57387,-0.4517 3.68183,-1.35511 0.95455,-0.75001 1.54262,-1.61081 1.76421,-2.5824 h -1.50309 c 0.30312,-0.45468 0.42437,-0.87105 0.50015,-1.43182 z m 4.88929,6.5199 V 153.029 h 1.55966 v 6.08525 h 6.98013 V 153.029 h 1.58523 v 13.98583 h -1.58523 v -6.46876 h -6.98013 v 6.46876 z m 14.52274,0 v -12.57957 h -3.19603 V 153.029 h 7.87502 v 1.40626 h -3.1449 v 12.57957 z"
+       id="text32"
+       aria-label="LIGHT"
+       sodipodi:nodetypes="cccccccccccccccssscsccccscscscccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="389.94266"
+       y="128.15262"
+       id="text35"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="389.94266"
+         y="128.15262"
+         id="tspan33">LMC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="396.81369"
+       y="147.51981"
+       id="text29"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="396.81369"
+         y="147.51981"
+         id="tspan29">SPOT</tspan></text>
+    <circle
+       style="fill:#fae163;fill-opacity:1;stroke-width:0.499999;paint-order:stroke fill markers"
+       id="circle35"
+       cx="403.1687"
+       cy="140.75984"
+       r="3.590086" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 165.75082,179.53749 c 12.51127,-4.52916 16.23936,-3.69086 30.13282,1.23535 0,0 -0.52237,1.50532 -1.50892,3.38874 -11.16597,-4.03589 -15.88149,-4.05557 -25.29857,-1.45466 -0.26911,-0.19666 -0.88756,-0.46514 -1.85235,-0.89911 -0.50524,-0.22726 -1.59268,1.10805 -2.1087,0.85318 -0.60253,-0.29759 -0.60961,-2.18171 -0.8043,-2.37614 -0.69958,-0.6987 1.44002,-0.74736 1.44002,-0.74736 z"
@@ -490,5 +562,352 @@
          transform="scale(1.0002572,0.99974287)"
          sodipodi:nodetypes="scscsccscssssccsccccsssscccsssscccccccsssssscscsssssccccssssscsccscsssscsccccccccsscccscscscscscscscscscccccccccc" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="286.89096"
+       y="147.51981"
+       id="text24"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="286.89096"
+         y="147.51981"
+         id="tspan24">SPOT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="296.45816"
+       y="166.88699"
+       id="text28"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="296.45816"
+         y="166.88699"
+         id="tspan28">LIGHT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="279.80725"
+       y="128.15262"
+       id="text14"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="279.80725"
+         y="128.15262"
+         id="tspan14">LMC</tspan></text>
+    <circle
+       style="fill:#fa6363;fill-opacity:1;stroke-width:0.499999;paint-order:stroke fill markers"
+       id="circle37"
+       cx="403.1687"
+       cy="121.24217"
+       r="3.590086" />
+    <path
+       style="font-size:24.8012px;line-height:0.9;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.499999;paint-order:markers fill stroke"
+       d="M 460.42883,167.01483 V 153.029 h 1.55967 v 12.57958 h 5.72729 v 1.40625 z m 8.46309,0 V 153.029 h 1.55967 v 13.98583 z m 15.46297,-6.5199 h 2.92056 c 0,2.02841 -0.80966,3.69887 -2.42899,5.01138 -1.46591,1.15909 -3.12785,1.73864 -4.98581,1.73864 -2.07955,0 -3.85228,-0.71591 -5.31819,-2.14773 -1.46591,-1.43183 -2.19887,-3.12786 -2.19887,-5.08809 0,-1.89205 0.69887,-3.54546 2.0966,-4.96024 1.41477,-1.53409 3.21307,-2.30114 5.3949,-2.30114 1.6875,0 3.19603,0.4858 4.52558,1.45739 1.05682,0.80114 1.77273,1.68751 2.14773,2.6591 h -1.81535 c -0.40909,-0.76705 -1.02273,-1.38921 -1.84091,-1.86648 -0.95455,-0.52841 -1.95171,-0.79262 -2.99149,-0.79262 -1.6875,0 -3.10228,0.58807 -4.24433,1.76421 -1.14205,1.15909 -1.71307,2.52273 -1.71307,4.09092 0,1.55114 0.55398,2.89773 1.66194,4.03978 1.17614,1.17614 2.62501,1.76421 4.3466,1.76421 1.34659,0 2.57387,-0.4517 3.68183,-1.35511 0.95455,-0.75001 1.54262,-1.61081 1.76421,-2.5824 h -1.50308 c 0.30312,-0.45468 0.42436,-0.87105 0.50014,-1.43182 z m 4.88929,6.5199 V 153.029 h 1.55966 v 6.08525 h 6.98013 V 153.029 h 1.58523 v 13.98583 h -1.58523 v -6.46876 h -6.98013 v 6.46876 z m 14.52274,0 v -12.57957 h -3.19603 V 153.029 h 7.87502 v 1.40626 h -3.1449 v 12.57957 z"
+       id="path39"
+       aria-label="LIGHT"
+       sodipodi:nodetypes="cccccccccccccccssscsccccscscscccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="466.72305"
+       y="128.15262"
+       id="text39"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="466.72305"
+         y="128.15262"
+         id="tspan39">LMC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="473.59409"
+       y="147.51981"
+       id="text40"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="473.59409"
+         y="147.51981"
+         id="tspan40">SPOT</tspan></text>
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke-width:5;paint-order:stroke fill markers;stroke:#006aff;stroke-opacity:1;stroke-dasharray:none"
+       id="rect43"
+       width="66.88533"
+       height="87.587944"
+       x="257.05783"
+       y="199.3044"
+       ry="8.8680353" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="286.89096"
+       y="249.45985"
+       id="text43"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="286.89096"
+         y="249.45985"
+         id="tspan43">SPOT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="296.45816"
+       y="268.82703"
+       id="text44"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="296.45816"
+         y="268.82703"
+         id="tspan44">LIGHT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="279.80725"
+       y="230.09267"
+       id="text45"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="279.80725"
+         y="230.09267"
+         id="tspan45">LMC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="392.54553"
+       y="249.45985"
+       id="text48"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="392.54553"
+         y="249.45985"
+         id="tspan48">SPOT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="402.64191"
+       y="269.36145"
+       id="text49"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="402.64191"
+         y="269.36145"
+         id="tspan49">LIGHT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="385.46182"
+       y="227.57269"
+       id="text50"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="385.46182"
+         y="227.57269"
+         id="tspan50">LMC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="493.52222"
+       y="249.45985"
+       id="text51"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="493.52222"
+         y="249.45985"
+         id="tspan51">SPOT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="503.61859"
+       y="269.36145"
+       id="text52"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="503.61859"
+         y="269.36145"
+         id="tspan52">LIGHT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="486.43851"
+       y="227.57269"
+       id="text53"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="486.43851"
+         y="227.57269"
+         id="tspan53">LMC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="615.72058"
+       y="227.57269"
+       id="text54"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="615.72058"
+         y="227.57269"
+         id="tspan55">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="619.63037"
+       y="246.14417"
+       id="text56"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="619.63037"
+         y="246.14417"
+         id="tspan56">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="619.63037"
+       y="265.53018"
+       id="text57"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="619.63037"
+         y="265.53018"
+         id="tspan57">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="639.60657"
+       y="218.26888"
+       id="text58"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="639.60657"
+         y="218.26888"
+         id="tspan58">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="639.60657"
+       y="239.19447"
+       id="text59"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="639.60657"
+         y="239.19447"
+         id="tspan59">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="639.60657"
+       y="258.93561"
+       id="text60"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="639.60657"
+         y="258.93561"
+         id="tspan60">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="639.60657"
+       y="277.88708"
+       id="text61"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e66100;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="639.60657"
+         y="277.88708"
+         id="tspan61">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="658.95288"
+       y="206.81903"
+       id="text62"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="658.95288"
+         y="206.81903"
+         id="tspan62">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="658.95288"
+       y="227.74463"
+       id="text63"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="658.95288"
+         y="227.74463"
+         id="tspan63">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="658.95288"
+       y="247.48575"
+       id="text64"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="658.95288"
+         y="247.48575"
+         id="tspan64">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="658.95288"
+       y="266.43723"
+       id="text65"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="658.95288"
+         y="266.43723"
+         id="tspan65">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="658.95288"
+       y="287.36282"
+       id="text66"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#26a269;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="658.95288"
+         y="287.36282"
+         id="tspan66">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.5832px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="75.102798"
+       y="220.39323"
+       id="text37"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         x="75.102798"
+         y="220.39323"
+         dx="0 0 0">LMC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.0269px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;paint-order:markers fill stroke"
+       x="75.990402"
+       y="198.71556"
+       id="text38"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="75.990402"
+         y="198.71556">around</tspan></text>
+    <circle
+       style="fill:#2ec27e;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       id="circle45"
+       cx="44.666451"
+       cy="210.04358"
+       r="4.5610723" />
+    <circle
+       style="fill:#f6d32d;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       id="circle46"
+       cx="33.07206"
+       cy="210.04358"
+       r="4.5610723" />
+    <circle
+       style="fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       id="circle47"
+       cx="21.754044"
+       cy="210.04358"
+       r="4.5610723" />
   </g>
 </svg>
