@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.97687023"
-     inkscape:cx="295.84278"
-     inkscape:cy="791.81449"
+     inkscape:zoom="0.49663644"
+     inkscape:cx="631.24647"
+     inkscape:cy="1416.5292"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -39,6 +39,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:2;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect69"
+       width="30.89953"
+       height="100.68985"
+       x="229.61549"
+       y="412.88168"
+       ry="5.1429777" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path50"
@@ -909,5 +917,104 @@
        cx="21.754044"
        cy="210.04358"
        r="4.5610723" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="349.0842"
+       id="text36"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="349.0842"
+         id="tspan13">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="370.39423"
+       id="text41"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="370.39423"
+         id="tspan38">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="389.0405"
+       id="text42"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="389.0405"
+         id="tspan41">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="407.15402"
+       id="text46"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="407.15402"
+         id="tspan42">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="431.66052"
+       id="text47"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="431.66052"
+         id="tspan46">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="452.97055"
+       id="text55"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="452.97055"
+         id="tspan47">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="471.61682"
+       id="text67"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="471.61682"
+         id="tspan67">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="489.73035"
+       id="text68"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="489.73035"
+         id="tspan68">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.8012px;line-height:0.9;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+       x="244.72772"
+       y="508.90936"
+       id="text69"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NATS;-inkscape-font-specification:NATS;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="244.72772"
+         y="508.90936"
+         id="tspan69">T</tspan></text>
   </g>
 </svg>
